@@ -12,7 +12,7 @@
         <p>TRATAMENTO PSIQUIÁTRICO COM DRA. RENATA GANDINI VIEIRA</p>
         <p>CRM: 219304-SP</p>
         <p>Nosso compromisso é garantir que seus cuidados de saúde sejam sempre respaldados por documentos legítimos.</p>
-        <p> Alpha Med View todos os direitos reservados 20/01/2024 16:43 </p>
+        <p> Alpha Med todos os direitos reservados 20/01/2024 16:43 </p>
     </div>
 </body>
 </html>
